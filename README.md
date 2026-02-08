@@ -122,6 +122,8 @@ The firmware connects to the official [xiaozhi.me](https://xiaozhi.me) server by
 ### Developer Documentation
 
 - [Custom Board Guide](docs/custom-board.md) - Learn how to create custom boards for XiaoZhi AI
+- [Robot Face Drawing Guide (without PNG/GIF)](docs/robot-face-drawing.md) - Draw robot expressions directly with LVGL primitives
+- [Guia completo em Português (arquitetura, flash, Bluetooth e MQTT)](docs/guia-projeto-ptbr.md)
 - [MCP Protocol IoT Control Usage](docs/mcp-usage.md) - Learn how to control IoT devices via MCP protocol
 - [MCP Protocol Interaction Flow](docs/mcp-protocol.md) - Device-side MCP protocol implementation
 - [MQTT + UDP Hybrid Communication Protocol Document](docs/mqtt-udp.md)
